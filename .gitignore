@@ -1,1 +1,3 @@
-/src/main/Java/com/zaurtregulov/spring/mvc/Employee.java
+/target/
+/.idea/
+/src/test/
