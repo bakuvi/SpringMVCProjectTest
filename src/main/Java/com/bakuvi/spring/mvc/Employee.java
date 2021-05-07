@@ -1,11 +1,10 @@
 
-package com.zaurtregulov.spring.mvc;
+package com.bakuvi.spring.mvc;
 
 
-import com.zaurtregulov.spring.mvc.validation.CheckEmail;
+import com.bakuvi.spring.mvc.validation.CheckEmail;
 
 import javax.validation.constraints.NotEmpty;
-import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 import java.util.HashMap;
 import java.util.Map;
